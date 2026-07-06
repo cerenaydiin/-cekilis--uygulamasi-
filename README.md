@@ -10,9 +10,9 @@ Python ile geliştirilmiş basit bir terminal tabanlı çekiliş uygulamasıdır
 🛠️ Kullanılan Teknolojiler
 
 Python 3
-  random modülü
-  time modülü
-  
-  👩‍💻 Geliştirici
+- random modülü
+- time modülü
+
+👩‍💻 Geliştirici
 
 Ceren Aydın
