@@ -2,12 +2,12 @@
 
 Python ile geliştirilmiş basit bir terminal tabanlı çekiliş uygulamasıdır. Kullanıcı ekleme, listeleme, karıştırma ve rastgele kazanan seçme işlemlerini gerçekleştirebilir.
 
-🚀  Özellikler
-👤  Kullanıcı ekleme
-📋  Kullanıcı listesini görüntüleme
-🔀  Kullanıcı listesini karıştırma
-🎲  Rastgele bir veya birden fazla kullanıcı seçme
-🛠️  Kullanılan Teknolojiler
+
+🚀 Özellikler
+👤 Kullanıcı ekleme
+📋 Kullanıcı listesini görüntüleme
+🔀 Kullanıcı listesini karıştırma
+🎲 Rastgele bir veya birden fazla kullanıcı seçme
 
 Python 3
 - random modülü
